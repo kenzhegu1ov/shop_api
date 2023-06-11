@@ -1,0 +1,7 @@
+
+
+.idea
+.env
+venv
+templates
+__pycache__
